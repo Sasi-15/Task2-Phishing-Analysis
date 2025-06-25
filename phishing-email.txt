@@ -1,0 +1,36 @@
+Subject: Important Notice - Your Account Will Be Locked
+
+From: support-update@secure-paypai.com  
+To: you@example.com
+
+Dear Customer,
+
+We noticed unusual activity on your PayPal account.  
+Please confirm your identity by clicking the link below:
+
+https://paypai-account-verify.evil.com
+
+Failure to verify within 24 hours will result in account suspension.
+
+Thank you,  
+PayPal Security Team
+			
+			       						
+
+
+
+SUMMARY
+--------
+
+🚩 RED FLAGS IN THIS EMAIL:
+Sender is not PayPal → secure-paypai.com (spelling error!)
+
+URL is fake → paypai not paypal
+
+Threatening language → “account will be locked”
+
+Urgency → 24-hour deadline
+
+No personal name → “Dear Customer”
+
+Weird domain: evil.com 

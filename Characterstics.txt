@@ -1,0 +1,19 @@
+**CHARACTERISTICS OF A SUSPICIOUS EMAIL**
+
+Here are the key characteristics to look out for:
+
+1. Spoofed sender email – The address might look legit at first glance, but has odd domain names or extra characters.
+
+2. Discrepancies in email headers – These can reveal whether the message was truly sent from the source it claims (use a header analyser to inspect).
+
+3. Suspicious links or attachments – They may lead to fake websites or install malware.
+
+4. Urgent or threatening language – Phrases like “Your account will be closed today!” push you to act quickly without thinking.
+
+5. Mismatched URLs – Hovering over a link reveals a different destination than what’s shown.
+
+6. Poor grammar or spelling errors – Often a red flag for scam content.
+
+7. Too-good-to-be-true offers or requests for personal information – Legitimate organisations rarely ask for sensitive details this way.
+
+📌 These signs help you **detect phishing attempts** and protect yourself and your organisation.

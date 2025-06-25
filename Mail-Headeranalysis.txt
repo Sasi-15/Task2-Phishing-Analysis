@@ -1,0 +1,13 @@
+Return-Path: <spoofed@evil.com>
+Received: from unknown (203.0.113.45) by mail.fake.com
+From: support-update@secure-paypai.com
+To: you@example.com
+Subject: Important Notice - Your Account Will Be Locked
+Date: Mon, 23 June 2025 19:31:02 +0530
+Authentication-Results: spf=fail dkim=fail
+
+
+
+
+
+
